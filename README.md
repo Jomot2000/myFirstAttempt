@@ -1,2 +1,2 @@
-# myFirstAttempt
-this is my first time on github
+# Deep_learning
+my lessons on Neural network
